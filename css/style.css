@@ -7,6 +7,7 @@ body {
 	font: normal 16px/1.3  “Trebuchet MS”, Arial, sans-serif;
 	background-color: #3B3F45;
 	border: 20px solid #fff;
+	margin: 0;
 }
 /*СOMMON CLASSES*/
 .dinner-header,
